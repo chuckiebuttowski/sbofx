@@ -1,0 +1,10 @@
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\bin\Debug\sbo.fx.dll
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\bin\Debug\sbo.fx.pdb
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\bin\Debug\Dapper.dll
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\bin\Debug\Dapper.xml
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.csproj.ResolveComReference.cache
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.csproj.CoreCompileInputs.cache
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.dll
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.pdb
+C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.csprojResolveAssemblyReference.cache
