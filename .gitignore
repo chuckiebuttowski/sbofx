@@ -1,8 +1,7 @@
 OS junk files 
-[Tt]humbs.db 
+Thumbs.db 
 *.DS_Store 
 #Visual Studio files 
-*.[Oo]bj 
 *.user 
 *.aps 
 *.pch 
@@ -25,6 +24,5 @@ OS junk files
 *.xml 
 ipch/ 
 obj/ 
-[Bb]in 
-[Dd]ebug*/ 
-[Rr]elease*/
+bin/
+.vs/
