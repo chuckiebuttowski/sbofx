@@ -17,3 +17,22 @@ C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx.T
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.CoreCompileInputs.cache
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.dll
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.pdb
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\sbo.fx.Test.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\sbo.fx.Test.pdb
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\sbo.fx.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Dapper.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\sbo.fx.pdb
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Applications\RD\sbo.fx\sbo.fx.Test\bin\Debug\Dapper.xml
+G:\Applications\RD\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csprojResolveAssemblyReference.cache
+G:\Applications\RD\sbo.fx\sbo.fx.Test\obj\Debug\Interop.SAPbobsCOM.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.ResolveComReference.cache
+G:\Applications\RD\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.CoreCompileInputs.cache
+G:\Applications\RD\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.dll
+G:\Applications\RD\sbo.fx\sbo.fx.Test\obj\Debug\sbo.fx.Test.pdb

@@ -8,3 +8,13 @@ C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\o
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.dll
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.pdb
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\sbo.fx\sbo.fx\obj\Debug\sbo.fx.csprojResolveAssemblyReference.cache
+G:\Applications\RD\sbo.fx\sbo.fx\bin\Debug\sbo.fx.dll
+G:\Applications\RD\sbo.fx\sbo.fx\bin\Debug\sbo.fx.pdb
+G:\Applications\RD\sbo.fx\sbo.fx\bin\Debug\Dapper.dll
+G:\Applications\RD\sbo.fx\sbo.fx\bin\Debug\Dapper.xml
+G:\Applications\RD\sbo.fx\sbo.fx\obj\Debug\sbo.fx.csprojResolveAssemblyReference.cache
+G:\Applications\RD\sbo.fx\sbo.fx\obj\Debug\Interop.SAPbobsCOM.dll
+G:\Applications\RD\sbo.fx\sbo.fx\obj\Debug\sbo.fx.csproj.ResolveComReference.cache
+G:\Applications\RD\sbo.fx\sbo.fx\obj\Debug\sbo.fx.csproj.CoreCompileInputs.cache
+G:\Applications\RD\sbo.fx\sbo.fx\obj\Debug\sbo.fx.dll
+G:\Applications\RD\sbo.fx\sbo.fx\obj\Debug\sbo.fx.pdb

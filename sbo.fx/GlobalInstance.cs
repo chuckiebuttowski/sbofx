@@ -95,6 +95,7 @@ namespace sbo.fx
 
         public void DisposeSboComObject()
         {
+            if (SboComObject == null) return;
             SboComObject.Disconnect();
             System.Runtime.InteropServices.Marshal.ReleaseComObject(SboComObject);
             SboComObject = null;
@@ -105,6 +106,7 @@ namespace sbo.fx
 
         public void DisposeSqlObject()
         {
+            if (SqlObject == null) return;
             SqlObject.Close();
             SqlObject.Dispose();
         }
