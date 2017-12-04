@@ -43,5 +43,6 @@ namespace sbo.fx.Models
         public int ReceiptNum { get; set; } = 0;
 
         public List<oInvoiceLine> InvoiceLines { get; set; }
+
     }
 }

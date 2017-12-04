@@ -44,5 +44,10 @@ namespace sbo.fx.Models
         public string DebPayAcct { get; set; }
 
         public double Balance { get; set; }
+
+        public override void GetSboModelType()
+        {
+            SboType = SboTransactionType.BP;
+        }
     }
 }

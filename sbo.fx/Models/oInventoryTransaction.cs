@@ -33,5 +33,11 @@ namespace sbo.fx.Models
 
         public List<oInventoryTransactionLine> TransactionLines { get; set; }
 
+        public override void GetSboModelType()
+        {
+            if (InventoryTransactionType == InventoryType.In) SboType = SboTransactionType.GR;
+            else SboType = SboTransactionType.GI;
+        }
+
     }
 }

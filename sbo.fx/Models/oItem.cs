@@ -35,5 +35,10 @@ namespace sbo.fx.Models
         public string SalesItem { get; set; }
         [StringLength(2, ErrorMessage = "String length must not be greater than 2")]
         public string PurchaseItem { get; set; }
+
+        public override void GetSboModelType()
+        {
+            SboType = SboTransactionType.ITM;
+        }
     }
 }

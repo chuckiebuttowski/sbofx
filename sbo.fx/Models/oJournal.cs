@@ -45,5 +45,10 @@ namespace sbo.fx.Models
         public string Project { get; set; }
 
         public List<oJournalLine> JournalLines { get; set; }
+
+        public override void GetSboModelType()
+        {
+            SboType = SboTransactionType.JE;
+        }
     }
 }

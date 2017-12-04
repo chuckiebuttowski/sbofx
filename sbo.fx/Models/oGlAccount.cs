@@ -30,5 +30,10 @@ namespace sbo.fx.Models
         [StringLength(1, ErrorMessage = "String length must not be greater than 1")]
         [Required]
         public string IsControlAccount { get; set; }
+
+        public override void GetSboModelType()
+        {
+            SboType = SboTransactionType.GL;
+        }
     }
 }
