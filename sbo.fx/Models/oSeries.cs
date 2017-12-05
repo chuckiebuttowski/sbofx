@@ -1,4 +1,5 @@
-﻿using System;
+﻿using sbo.fx.Attributes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace sbo.fx.Models
 {
+    [SBOTransactionType("SER")]
     public class oSeries: DocumentationModel
     {
         public string ObjectCode { get; set; }
