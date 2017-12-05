@@ -56,7 +56,6 @@
     <Compile Include="Interfaces\IJournalRepository.cs" />
     <Compile Include="Interfaces\IGlAccountRepository.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
-    <Compile Include="Models\ModelDefinition.cs" />
     <Compile Include="Models\oBranch.cs" />
     <Compile Include="Models\oBusinessPartnerGroup.cs" />
     <Compile Include="Models\DocumentationModel.cs" />
