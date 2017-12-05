@@ -38,3 +38,13 @@ E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.
 E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx\obj\Debug\sbo.fx.csproj.CoreCompileInputs.cache
 E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx\obj\Debug\sbo.fx.dll
 E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx\obj\Debug\sbo.fx.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\bin\Debug\sbo.fx.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\bin\Debug\sbo.fx.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\bin\Debug\Dapper.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\bin\Debug\Dapper.xml
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\obj\Debug\sbo.fx.csprojResolveAssemblyReference.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\obj\Debug\Interop.SAPbobsCOM.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\obj\Debug\sbo.fx.csproj.ResolveComReference.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\obj\Debug\sbo.fx.csproj.CoreCompileInputs.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\obj\Debug\sbo.fx.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx\obj\Debug\sbo.fx.pdb

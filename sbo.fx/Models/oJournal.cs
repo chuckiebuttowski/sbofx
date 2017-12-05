@@ -1,4 +1,5 @@
-﻿using System;
+﻿using sbo.fx.Attributes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace sbo.fx.Models
 {
+    [SBOTransactionType("JE")]
     public class oJournal : DocumentationModel
     {
         public oJournal()

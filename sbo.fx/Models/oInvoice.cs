@@ -1,4 +1,5 @@
-﻿using System;
+﻿using sbo.fx.Attributes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace sbo.fx.Models
 {
-    public class oInvoice
+    [SBOTransactionType("APINV  or ARINV ", "APINV  is for Accounts Payable Invoices, ARINV is for Accounts Receivable Invoices")]
+    public class oInvoice : DocumentationModel
     {
         public oInvoice()
         {
