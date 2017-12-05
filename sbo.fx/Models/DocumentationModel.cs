@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,16 +9,18 @@ namespace sbo.fx.Models
 {
     public class DocumentationModel
     {
-        public Dictionary<string, string> GetObjectDocumentation()
+        public IEnumerable<object> GetObjectDocumentation()
         {
-            var dict = new Dictionary<string, string>();
+            var list = new List<object>();
 
             foreach (var prop in this.GetType().GetProperties())
             {
-                dict.Add(prop.Name, prop.PropertyType.Name);
+                var requiredAttr = prop.GetCustomAttributes(typeof(RequiredAttribute), false).FirstOrDefault() as RequiredAttribute;
+                var lengthAttr = prop.GetCustomAttributes(typeof(StringLengthAttribute), false).FirstOrDefault() as StringLengthAttribute;
+                list.Add(new { FieldName = prop.Name, Type = prop.PropertyType.Name, IsRequired = requiredAttr != null, FieldLength = lengthAttr?.MaximumLength });
             }
 
-            return dict;
+            return list;
         }
 
         public virtual void GetSboModelType()
@@ -31,4 +34,5 @@ namespace sbo.fx.Models
         public string UpdatedBy { get; set; }
         public SboTransactionType SboType { get; set; }
     }
+
 }

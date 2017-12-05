@@ -55,3 +55,41 @@ C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\github\sbofx\sb
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\github\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.CoreCompileInputs.cache
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\github\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.dll
 C:\Users\CHUCKIE\Documents\Visual Studio 2017\Projects\Libraries\github\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.Test.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.Test.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Dapper.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\bin\Debug\Dapper.xml
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csprojResolveAssemblyReference.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\obj\Debug\Interop.SAPbobsCOM.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.ResolveComReference.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.CoreCompileInputs.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.Test.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.Test.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Dapper.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\sbo.fx.pdb
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\bin\Debug\Dapper.xml
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csprojResolveAssemblyReference.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\obj\Debug\Interop.SAPbobsCOM.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.ResolveComReference.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.csproj.CoreCompileInputs.cache
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.dll
+E:\programming-files\GIT Projects\1028 Innovations Inc\chuckie sbo fx\my forked\sbofx\sbo.fx.Test\obj\Debug\sbo.fx.Test.pdb
