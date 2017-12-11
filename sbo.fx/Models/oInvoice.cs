@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace sbo.fx.Models
 {
-    [SBOTransactionType("APINV  or ARINV ", "APINV  is for Accounts Payable Invoices, ARINV is for Accounts Receivable Invoices")]
+    //[SBOTransactionType("APINV  or ARINV ", "APINV  is for Accounts Payable Invoices, ARINV is for Accounts Receivable Invoices")]
     public class oInvoice : DocumentationModel
     {
         public oInvoice()

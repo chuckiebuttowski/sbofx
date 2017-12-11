@@ -226,8 +226,9 @@ namespace sbo.fx.Repositories
         {
             try
             {
-                var jrnls = await GetList(x => x.TransId == TransId);
-                return jrnls.FirstOrDefault();
+                var jrnls = await GetList(null);
+                var jrnl = jrnls.FirstOrDefault(x => x.TransId == TransId);
+                return jrnl;
             }
             catch (Exception ex)
             {

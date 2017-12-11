@@ -28,6 +28,9 @@ namespace sbo.fx
         public Company SboComObject;
         public SqlConnection SqlObject;
 
+        public bool IsSegmented { get; set; }
+        public bool HasCostCenter { get; set; }
+
         public int SBOErrorCode { get; set; }
         public string SBOErrorMessage { get; set; }
         public string Server { get; set; }

@@ -60,6 +60,8 @@
     <Compile Include="Models\oBranch.cs" />
     <Compile Include="Models\oBusinessPartnerGroup.cs" />
     <Compile Include="Models\DocumentationModel.cs" />
+    <Compile Include="Models\oCheckPayment.cs" />
+    <Compile Include="Models\oCreditPayment.cs" />
     <Compile Include="Models\oItemGroup.cs" />
     <Compile Include="Models\oInventoryTransaction.cs" />
     <Compile Include="Models\oInventoryTransactionLine.cs" />
@@ -71,6 +73,8 @@
     <Compile Include="Models\oItemSerial.cs" />
     <Compile Include="Models\oJournal.cs" />
     <Compile Include="Models\oJournalLine.cs" />
+    <Compile Include="Models\oPayment.cs" />
+    <Compile Include="Models\oPaymentLine.cs" />
     <Compile Include="Models\oProject.cs" />
     <Compile Include="Models\oTax.cs" />
     <Compile Include="Models\oWTax.cs" />
